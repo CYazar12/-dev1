@@ -1,11 +1,14 @@
+www.patika.dev
+
 # Odev1
+
 C#101 Algoritma Sorulari Ödev 1
 
 //1.Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin(n). 
 //Sonrasında kullanıcıdan n adet pozitif sayı girmesini isteyin.
 // Kullanıcının girmiş olduğu sayılardan çift olanlar console'a yazdırın.
 
-Console.WriteLine("Lüften pozitif bir sayı giriniz:");
+´´´Console.WriteLine("Lüften pozitif bir sayı giriniz:");
 int n= int.Parse(Console.ReadLine());
 
 
@@ -20,4 +23,4 @@ foreach (int sayi in sayilar2)
 {
     if(sayi%2==0)
       Console.WriteLine(sayi);
-}
+}´´´
