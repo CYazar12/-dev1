@@ -11,7 +11,10 @@ C#101 Algoritma Sorulari Ödev 1
 // Kullanıcının girmiş olduğu sayılardan çift olanlar console'a yazdırın.
 
 
-´´´Console.WriteLine("Lüften pozitif bir sayı giriniz:");
+
+
+´´´
+Console.WriteLine("Lüften pozitif bir sayı giriniz:");
 
           int n= int.Parse(Console.ReadLine());
 
@@ -21,6 +24,7 @@ C#101 Algoritma Sorulari Ödev 1
            for (int i = 0; i < n; i++)
            
 {
+
     Console.WriteLine("Lütfen {0} ıncı sayıyı giriniz adet sayı giriniz:",i+1); 
     
     sayilar2[i]=int.Parse(Console.ReadLine());
