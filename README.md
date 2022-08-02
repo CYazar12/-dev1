@@ -1,8 +1,7 @@
 # Odev1
 C#101 Algoritma Sorulari Ödev 1
 
-´´´
-Console.WriteLine("Lüften pozitif bir sayı giriniz:"); //1.Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin(n). 
+´´´ Console.WriteLine("Lüften pozitif bir sayı giriniz:"); //1.Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin(n). 
 
 int n= int.Parse(Console.ReadLine());
 
