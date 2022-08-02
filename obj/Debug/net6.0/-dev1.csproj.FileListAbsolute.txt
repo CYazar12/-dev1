@@ -1,0 +1,15 @@
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\bin\Debug\net6.0\-dev1.exe
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\bin\Debug\net6.0\-dev1.deps.json
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\bin\Debug\net6.0\-dev1.runtimeconfig.json
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\bin\Debug\net6.0\-dev1.dll
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\bin\Debug\net6.0\-dev1.pdb
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.csproj.AssemblyReference.cache
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.AssemblyInfoInputs.cache
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.AssemblyInfo.cs
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.csproj.CoreCompileInputs.cache
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.dll
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\refint\-dev1.dll
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.pdb
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\-dev1.genruntimeconfig.cache
+C:\Users\celal\Documents\Sites\Pratikler\-dev1\obj\Debug\net6.0\ref\-dev1.dll
