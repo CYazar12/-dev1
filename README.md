@@ -5,7 +5,7 @@ www.patika.dev
 C#101 Algoritma Sorulari Ödev 1
 
 
-´´´     Console.Write("Lütfen Pozitif Bir Sayı Giriniz :");
+```Console.Write("Lütfen Pozitif Bir Sayı Giriniz :");
 
         int number = int.Parse(Console.ReadLine());
         
@@ -99,6 +99,4 @@ C#101 Algoritma Sorulari Ödev 1
         else
         {
             Console.WriteLine("LÜTFEN POZİTİF BİR SAYI GİRİNİZ!");
-        }
-        
-        ´´´
+        }´´´
